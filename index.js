@@ -97,7 +97,7 @@ switch (event.which)
           var save4 = cascade[3].innerHTML.toString();
           cascade[3].innerHTML = "Redirecting..";
           setTimeout(donothing, 5000);
-          window.open("https://github.com/Zojack/calisto-js", '_blank');
+          window.open("https://github.com/Ricurry/Visualizer", '_blank');
           cascade[3].innerHTML = save4;
         }
         else if (cascade[4].innerHTML.toString().startsWith("*")) 
@@ -105,7 +105,7 @@ switch (event.which)
           var save5 = cascade[4].innerHTML.toString();
           cascade[4].innerHTML = "Redirecting..";
           setTimeout(donothing, 5000);
-          window.open("https://github.com/Zojack/calisto-js", '_blank');
+          window.open("https://github.com/Ricurry/Abraxas", '_blank');
           cascade[4].innerHTML = save5;
         }
         else if (cascade[5].innerHTML.toString().startsWith("*")) 
@@ -121,7 +121,7 @@ switch (event.which)
           var save7 = cascade[6].innerHTML.toString();
           cascade[6].innerHTML = "Redirecting..";
           setTimeout(donothing, 5000);
-          window.open("https://github.com/Zojack/calisto-js", '_blank');
+          window.open("https://github.com/Ricurry/socket-server", '_blank');
           cascade[6].innerHTML = save7;
         }
         else if (cascade[7].innerHTML.toString().startsWith("*")) 
@@ -129,7 +129,7 @@ switch (event.which)
           var save8 = cascade[7].innerHTML.toString();
           cascade[7].innerHTML = "Redirecting..";
           setTimeout(donothing, 5000);
-          window.open("https://github.com/Zojack/calisto-js", '_blank');
+          window.open("https://github.com/Ricurry/Abraxas", '_blank');
           cascade[7].innerHTML = save8;
         }
         else if (cascade[8].innerHTML.toString().startsWith("*")) 
@@ -137,7 +137,7 @@ switch (event.which)
           var save9 = cascade[8].innerHTML.toString();
           cascade[8].innerHTML = "Redirecting..";
           setTimeout(donothing, 5000);
-          window.open("https://github.com/Zojack/calisto-js", '_blank');
+          window.open("https://github.com/Ricurry/FacialRecog", '_blank');
           cascade[8].innerHTML = save9;
         }
         else if (cascade[9].innerHTML.toString().startsWith("*")) 
@@ -145,7 +145,7 @@ switch (event.which)
           var save10 = cascade[9].innerHTML.toString();
           cascade[9].innerHTML = "Redirecting..";
           setTimeout(donothing, 5000);
-          window.open("https://github.com/Zojack/calisto-js", '_blank');
+          window.open("https://github.com/Ricurry/EPGAssBlast", '_blank');
           cascade[9].innerHTML = save10;
         }
 
