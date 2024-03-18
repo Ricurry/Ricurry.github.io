@@ -35,7 +35,7 @@ switch (event.which)
     }
   break;
   case 87:
-    if (cascade[0].innerHTML.toString().includes("Zojack")) 
+    if (cascade[0].innerHTML.toString().includes("Ricurry")) 
     {
       if (repo > 0) 
       {
@@ -51,7 +51,7 @@ switch (event.which)
     }
   break;
     case 83:
-      if (cascade[0].innerHTML.toString().includes("Zojack")) 
+      if (cascade[0].innerHTML.toString().includes("Ricurry")) 
       {
         if (repo < 9) 
         {
