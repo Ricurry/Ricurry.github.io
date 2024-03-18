@@ -1,0 +1,38 @@
+body 
+{
+  background: rgb(0, 0, 0);
+  height: 100%;
+}
+
+
+
+@font-face {
+  font-family: 'CascadiaCode';
+  src: url(../font/CascadiaCode.ttf);
+  display: swap;
+}
+
+.Wifebeater
+{
+  text-align: center;
+  font-family: 'CascadiaCode', monospace;
+  color: rgb(230, 29, 106);
+  text-shadow : 0 0 0px rgb(192, 75, 75), 0  3px rgb(175, 78, 78), 0 0 0px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
+
+.ascii {
+  font-family: 'CascadiaCode', monospace;
+  color:rgb(230, 29, 106);
+}
+
+.menu {
+  font-family: 'CascadiaCode', monospace;
+  color: rgb(230, 29, 106);
+  text-shadow : 0 0 0px rgb(192, 75, 75), 0  3px rgb(175, 78, 78), 0 0 0px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
+.cascade 
+{
+  font-family: 'CascadiaCode', monospace;
+  color: rgb(255, 73, 118);
+}
+
