@@ -3,6 +3,7 @@ var repo = 0;
 var menu = document.getElementsByName("menu");
 var cascade = document.getElementsByName("menu1");
 var stats = document.getElementsByName("stats");
+
 $(document).keydown(function(event) 
 {
 switch (event.which) 
